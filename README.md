@@ -34,6 +34,7 @@ A curated list of papers on adaptation strategies for agentic AI systems. This r
 | 2023.07 | ToolLLM | ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs | ICLR'24 | [paper](https://arxiv.org/abs/2307.16789) | [code](https://github.com/OpenBMB/ToolBench) |
 | 2023.06 | ToolAlpaca | ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases | arXiv | [paper](https://arxiv.org/abs/2306.05301) | [code](https://github.com/tangqiaoyu/ToolAlpaca) |
 | 2023.05 | Gorilla | Gorilla: Large Language Model Connected with Massive APIs | NeurIPS'24 | [paper](https://arxiv.org/abs/2305.15334) | [code](https://github.com/ShishirPatil/gorilla) |
+| 2023.05 | TRICE | Making Language Models Better Tool Learners with Execution Feedback |NAACL'24 | [paper](https://arxiv.org/abs/2305.13068) | [code](https://github.com/zjunlp/TRICE) |
 | 2023.02 | Toolformer | Toolformer: Language Models Can Teach Themselves to Use Tools | NeurIPS'23 | [paper](https://arxiv.org/abs/2302.04761) | [code](https://github.com/conceptofmind/toolformer) |
 
 
