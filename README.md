@@ -16,6 +16,10 @@
 ## Agent Adaptation
 
 ### A1: Tool Execution Signaled
+| Year.Month | Method Name | Paper Name | Venue | Paper Link | Github Link |
+|:-----------:|:-----------:|-----------|:-----------:|:-----------:|:-----------:|
+| 2025.02| DeepRetrieval | DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning | EMNLP'25 | [paper](https://arxiv.org/pdf/2503.00223) | [code](https://github.com/pat-jj/DeepRetrieval) |
+
 
 ### A2: Agent Output Signaled
 
