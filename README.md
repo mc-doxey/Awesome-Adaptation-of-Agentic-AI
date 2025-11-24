@@ -115,8 +115,8 @@ Methods that adapt agents using signals from agent outputs, organized by whether
 | 2025.01 | DeepSeek-R1-Zero (Math) | Nature<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2501.12948) | Math | --- | DeepSeek-V3 | GRPO |
 | 2024.09 | SCoRe | ICLR'25<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2409.12917)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/BY571/SCoRe) | Math, Coding, QA | --- | Gemini1.0 Pro, Gemini1.5 Flash | REINFORCE |
 | 2024.07 | RISE | NeurIPS'24<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2407.18219)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/cmu-mind/RISE) | Math | --- | LLaMA2, LLaMA3, Mistral | SFT |
-| 2024.06 | TextGrad | Nature<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2406.07496)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/zou-group/textgrad) | Various Tasks | --- | GPT3.5, GPT4o | Textual Gradient Descent |
-| 2023.03 | Self-Refine | NeurIPS'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2303.17651)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/madaan/self-refine) | Dialogue, Math, Coding | --- | GPT3.5, GPT4, CODEX | --- |
+| 2024.06 | TextGrad | Nature<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2406.07496)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/zou-group/textgrad) | Various Tasks | --- | GPT3.5, GPT4o | Prompt Tuning |
+| 2023.03 | Self-Refine | NeurIPS'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2303.17651)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/madaan/self-refine) | Dialogue, Math, Coding | --- | GPT3.5, GPT4, CODEX | Test-Time Prompting |
 
 ---
 
