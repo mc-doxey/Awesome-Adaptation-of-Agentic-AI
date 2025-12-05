@@ -3,6 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-in-Agentic-AI?style=social)](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-in-Agentic-AI?style=social)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
+[![arXiv](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI/blob/main/paper.pdf)
 
 <p align="center">
     <img src="images/intro.png" width="100%" style="align:center;"/>
