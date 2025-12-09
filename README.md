@@ -1,9 +1,10 @@
 # Awesome Adaptation of Agentic AI
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI/blob/main/paper.pdf)
+
 
 <p align="center">
     <img src="images/intro.png" width="100%" style="align:center;"/>
