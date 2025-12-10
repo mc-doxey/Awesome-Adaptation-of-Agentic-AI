@@ -222,6 +222,9 @@ If you find this repository useful, please consider citing our survey:
 
 We welcome contributions! Please feel free to submit a Pull Request to add new papers or update existing entries.
 
-## License
+---
 
-This project is licensed under the MIT License.
+<p align="center">
+  <br>
+  <sub>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Keep exploring the awesome world of agentic AI! ✧ﾟ･: *ヽ(◕ヮ◕ヽ)</sub>
+</p>
